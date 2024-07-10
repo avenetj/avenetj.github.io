@@ -28,14 +28,14 @@ url: "https://avenetj.github.io"
 github:
   username: avenetj # change to your github username
 
-twitter:
-  username: ultimategin # change to your twitter username
+#twitter:
+#  username: ultimategin # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Julien Avenet
-  email: example@domain.com # change to your email address
+  #email: example@domain.com # change to your email address
   links:
     - https://github.com/avenetj # change to your github homepage
     # Uncomment below to add more social links
@@ -70,7 +70,7 @@ analytics:
 
 # Pageviews settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: goatcounter # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
