@@ -8,7 +8,7 @@ title: About
 # MIT License
 ---
 
-<img src="../assets/img/julien.jpeg" width="300" style="float: right;">
+<img src="../assets/img/julien.jpeg" width="300" alt="Photo dans la nature" style="float: right;">
 
 
 
