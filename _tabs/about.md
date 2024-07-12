@@ -8,7 +8,7 @@ title: About
 # MIT License
 ---
 
-<img src="../assets/img/julien.jpeg" alt="Texte alternatif" align="right" width="300" style="margin-right: 20px;">
+<img src="../assets/img/julien.jpeg" width="300" style="float: right;">
 
 
 
