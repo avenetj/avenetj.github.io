@@ -8,10 +8,6 @@ title: About
 # MIT License
 ---
 
-<img src="../assets/img/julien.jpeg" width="300" alt="Photo dans la nature" style="float: right;">
-
-
-
 Je suis **Site Reliability Engineer (SRE)** et j'aide les entreprises à garantir le bon fonctionnement de leurs services pour assurer la satisfaction client.
 
 J'ai travaillé en France et à l'étranger sur divers projets, notamment :
@@ -22,6 +18,9 @@ Applications de facturation et traitement de données
 J'utilise des méthodes SRE/DevOps, Content Delivery Networks, Cloud Computing, Kubernetes, entre autres.
 
 Lorsque mes pensées ne sont pas dans [les nuages](https://fr.wikipedia.org/wiki/Cloud_computing), j'aime passer du temps avec mes proches, faire de la randonnée dans la nature, jouer au handball. Je suis également joueur e-sport professionnel dans les jeux de combat.
+
+<img src="../assets/img/julien.jpeg" width="300" alt="Photo dans la nature" style="float: center;">
+
 
 
 ### Contact
