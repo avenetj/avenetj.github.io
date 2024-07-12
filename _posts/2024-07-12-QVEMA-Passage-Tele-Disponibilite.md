@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Qui veut être mon associé ?" et ses Conséquences sur le Trafic Web
+title: "Qui veut être mon associé ?" et les déboires informatiques d'un passage à la télévision.
 categories: [availability]
-tags: [tv, business, startups, web-traffic]
+tags: [tv, web-traffic, availability]
 ---
 
 _Billet co-écrit avec une IA_
