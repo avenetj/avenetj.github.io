@@ -22,7 +22,7 @@ Lorsqu'un entrepreneur présente son projet sur QVEMA, il bénéficie d'une visi
 
 ### Pourquoi ce Pic de Trafic Peut Faire Crash un Site Web
 
-![Passage télévisé - Conséquence probable](../assets/img/posts/QVEMA/500.webp)
+![Passage télévisé - Conséquence probable](../assets/img/posts/QVEMA/8wpbsx.jpg)
 
 L'augmentation soudaine et massive du trafic web due à une apparition télévisée peut surcharger les serveurs d'un site web, surtout s'ils ne sont pas préparés à gérer un tel afflux. Voici pourquoi cela se produit :
 
