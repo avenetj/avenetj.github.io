@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Qui veut être mon associé et les déboires informatiques d'un passage à la télévision.
-categories: [availability]
 tags: [tv, web-traffic, availability]
 ---
 
